@@ -17,7 +17,6 @@ image ID bacz = "ID_Andreas Bacz.png"
 image ID clay = "ID_Daryl Clay.png"
 image ID stone = "ID_Elias Stone.png"
 image ID dijkstra = "ID_Marjo Dijkstra.png"
-image ID ikeda = "Id_ikeda.png"
 image ikeda outro  = "ikeda outro.jpg"
 image diagnostic = Text("{size=80}Diagnostic", font="visitor.ttf", text_align=0.5)
 
